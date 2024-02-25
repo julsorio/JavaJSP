@@ -1,5 +1,10 @@
 package es.accenture.emisora;
 
+/**
+ * clase que representa la tabla grupo
+ * 
+ * @author Andrea Ravagli
+ */
 public class Grupo {
 	private int id;
 	private String nombre;
